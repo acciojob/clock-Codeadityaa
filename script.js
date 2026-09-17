@@ -7,5 +7,5 @@ set interval(
 		timerDisplay.innerHTML=currentDate.tolocaleString();
 	},1000
 		
-	}
+	)
 )
